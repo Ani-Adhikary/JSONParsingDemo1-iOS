@@ -1,33 +1,33 @@
 {
-    "status": {
-        "key1": "Key1 Value",
-        "key2": "Key2 Value",
-        "key3": "Key3 Value",
-        "key4": "Key4 Value",
-    },
-    
-    "data": {
-        "key1": {
-            "key1": "key1Value",
-            "key2": {
-                "key1": "Key1 Value",
-                "key2": "Key2 Value",
-                "key3": "Key3 Value",
-                "key4": "Key4 Value",
-            },
-            "key3": {
-                "key1": "Key1 Value",
-                "key2": "Key2 Value",
-                "key3": "Key3 Value",
-                "key4": "Key4 Value",
-            },
-            "key4": [{
-                "key1": "Key1 Value",
-                "key2": "Key2 Value",
-                "key3": "Key3 Value",
-                "key4": "Key4 Value",
-            }]
-        }
-    }
-    
+	"status": {
+		"key1": "Key1 Value",
+		"key2": "Key2 Value",
+		"key3": "Key3 Value",
+		"key4": "Key4 Value"
+	},
+
+	"data": {
+		"key1": {
+			"key1": "key1Value",
+			"key2": {
+				"key1": "Key1 Value",
+				"key2": "Key2 Value",
+				"key3": "Key3 Value",
+				"key4": "Key4 Value"
+			},
+			"key3": {
+				"key1": "Key1 Value",
+				"key2": "Key2 Value",
+				"key3": "Key3 Value",
+				"key4": "Key4 Value"
+			},
+			"key4": [{
+				"key1": "Key1 Value",
+				"key2": "Key2 Value",
+				"key3": "Key3 Value",
+				"key4": "Key4 Value"
+			}]
+		}
+	}
+
 }
